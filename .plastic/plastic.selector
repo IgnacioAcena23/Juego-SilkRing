@@ -1,0 +1,3 @@
+repository "intento de siljkson/EstructurasSilksong@4674147200343@cloud"
+  path "/"
+    smartbranch "/main/Branch-Ignacio"

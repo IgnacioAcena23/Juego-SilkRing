@@ -1,0 +1,14 @@
+{"model_request": {
+  "target_model": "Nano Banana",
+  "parameters": {
+        "prompt": "A 2D pixel art sprite sheet of character class Wylder from Elden Ring Niightreign. 2D pixel art style, high cuality, 32-bits aesthetic. Multiple frames showing a walking anmimation with his sword, drinking a estatusFlask",
+        "negative_prompt": "3D render, photo, realistic, gradient background, blurry, messy lines, merged frames, distorted face, low resolution",
+        "aspect_ratio": "1:1",
+        "dimensiones": "512x512",
+        "num_images": 4,
+        "style_preset": "pixel art",
+        "output_format": "png",
+        "background": "transparent"
+    }
+}
+}

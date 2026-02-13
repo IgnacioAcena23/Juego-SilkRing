@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Plataforma
+  - Water
+  - UI
+  - UI Vida
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Escena de fondo
+    uniqueID: 298816693
+    locked: 0
+  - name: Particulas lava
+    uniqueID: 3772873309
+    locked: 0
+  - name: Lava
+    uniqueID: 3439553733
+    locked: 0
+  - name: Piedras
+    uniqueID: 154871277
+    locked: 0
+  - name: Plataforma
+    uniqueID: 2125385651
+    locked: 0
+  - name: Vida
+    uniqueID: 1894461109
+    locked: 0
+  - name: Hornet
+    uniqueID: 4176294623
+    locked: 0
+  - name: Pilar
+    uniqueID: 1289516351
+    locked: 0
+  m_RenderingLayers:
+  - Default
